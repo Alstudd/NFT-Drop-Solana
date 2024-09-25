@@ -1,34 +1,40 @@
 export const data = {
-    "program": {
-        "candyMachine": "9rY7xSHnmfvenkwGmweFFnEmADQXTULGDwgcczYMbjR7",
-        "candyGuard": "",
-        "candyMachineCreator": "CdmBLjRGi7RJSLDWRAmfcXEswwrXbTUry274Ko2n7F43",
-        "collectionMint": "HZUu9VLcbUW8z3RwHgzcFYxiSpNgor6ahZLGM9MRy6Hi"
+  items: [
+    {
+      name: "ALSTUDD #6232",
+      image_hash:
+        "cc851605536afd8ef814d0d0d691b3a80b55ae72f3b649f5ee4c2bf97ba8cfec",
+      image_link:
+        "https://gateway.pinata.cloud/ipfs/QmShoqnfPjS9aNiWcKpZRtS4hrWU418jzLS32q9TXVmVvm/0.png",
+      metadata_hash:
+        "b10243417eb7085bb1123710fa17d0d6e2063c46580e844313db7d4a42976b1e",
+      metadata_link:
+        "https://gateway.pinata.cloud/ipfs/QmPQA7uWzkdU5X5F5A24X949LyB6cmZJQwFzgbFSfkbcRe/0.json",
+      onChain: true,
     },
-    "items": [
-        {
-            "name": "SMB #3713",
-            "image_hash": "0f25cc56a5248acaff1dea34989e04c0a94a321da43e1f806eb49b8551432759",
-            "image_link": "https://arweave.net/5vDabM_CHzTKc5GVBUU8ed7co9ehmHYc97YMKKU9vwc",
-            "metadata_hash": "e737655253743262ae015ba0479ce58daa9adbfed002cd3cf21963176b553342",
-            "metadata_link": "https://arweave.net/vbyo6d-xlWEUQSOxImiHyu0AD_2Y6mW2ddHmNu6lEyY",
-            "onChain": true
-        },
-        {
-            "name": "SMB #1001",
-            "image_hash": "9461eefa9b19f0a23b166f412d5d0825ea819237eca6f034e2b7bde43aa2b246",
-            "image_link": "https://arweave.net/E4Hd6wmYU_vOySXaR6k4fJk1vk1Vf5GKImifCQygCng",
-            "metadata_hash": "c71a54941e59b41854d3d3fdf72877fa901c11e2c9cc4cfcff20a552011696aa",
-            "metadata_link": "https://arweave.net/tHnUCWe37-8tQCWNn5m8B2BQAKfmkKbRzsUElzXeU_o",
-            "onChain": true
-        },
-        {
-            "name": "SMB #10",
-            "image_hash": "33761a265dade9a033a3c8019129c7d258f763255f1f5442e4ab295511be5959",
-            "image_link": "https://arweave.net/3Ty7S_xlHWLObEajonW3V6J6vWNtXc1nqdBGoFXj4vE",
-            "metadata_hash": "962e64f0f8c7e23924485cb8ff0e33f340f58cb7940223e21ab84df6ac20bbb7",
-            "metadata_link": "https://arweave.net/Gcmref5a2VWg1sov2S-4S0MKL-SFRjrKyWhpVtzXb9k",
-            "onChain": true
-        },
-    ]
-}
+    {
+      name: "ALSTUDD #1358",
+      image_hash:
+        "d1eea5f5a71feab4e63f515d766c81e7609a5e8dbe4bf3ad53a0f24a95dc7bf9",
+      image_link:
+        "https://gateway.pinata.cloud/ipfs/QmV5w3ygasbWwJvb1XwS2MEBMbEXcDfJuKZautYsw3GXs9/1.png",
+      metadata_hash:
+        "b9ff292f0d502655c053609164cb658ff649faf099e5b20359acb6017b495d7e",
+      metadata_link:
+        "https://gateway.pinata.cloud/ipfs/Qmdq7E8sBtGSuSD6MM2kbhsEuGicT42Pqf7Licc3AHzZW3/1.json",
+      onChain: true,
+    },
+    {
+      name: "ALSTUDD #4752",
+      image_hash:
+        "0ff5349743723b74b36f452b9f876aee86863d4a729aeb277a3fdce8e6df68a5",
+      image_link:
+        "https://gateway.pinata.cloud/ipfs/QmUTyASCubwKE5VsECnTvVgHFF8fbtXTaSPM9y4hghvoR4/2.png",
+      metadata_hash:
+        "f20cbad74ab8aa7b821234dfd886035df444123a8aa5cb88911a9259b6b842a6",
+      metadata_link:
+        "https://gateway.pinata.cloud/ipfs/QmbDwZmZkxbR3EMrzkjZK4xmwktgnEx5kZUJfvaGcyYC6w/2.json",
+      onChain: true,
+    },
+  ],
+};

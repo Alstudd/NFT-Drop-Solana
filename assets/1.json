@@ -1,28 +1,28 @@
 {
-    "name": "Studious Crab #2",
-    "symbol": "CRAB",
-    "description": "The Studious Crabs are smart and productive crabs.",
-    "image": "1.png",
-    "attributes": [
-        {
-            "trait_type": "accessory",
-            "value": "pencil"
-        },
-        {
-            "trait_type": "accessory",
-            "value": "clipboard"
-        },
-        {
-            "trait_type": "books",
-            "value": "purple"
-        }
-    ],
-    "properties": {
-        "files": [
-            {
-                "uri": "1.png",
-                "type": "image/png"
-            }
-        ]
+  "name": "ALSTUDD #1358",
+  "symbol": "ALSTUDD",
+  "description": "ALSTUDD is an exclusive collection of 10,000 NFTs of Lazy Lions.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "eyes",
+      "value": "winking"
+    },
+    {
+      "trait_type": "bodygear",
+      "value": "ripped shirt"
+    },
+    {
+      "trait_type": "headgear",
+      "value": "nothing"
     }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
